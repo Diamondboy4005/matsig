@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "matsig:raw_turmarine"
+  },
+  "result": "matsig:turmarine"
+}

@@ -1,0 +1,31 @@
+{
+  "item.matsig.raw_orichalcum": "Raw Orichalcum",
+  "item.matsig.raw_turmarine_alloy": "Raw Turmarine Alloy",
+
+  "item.matsig.ruby": "Ruby",
+  "item.matsig.orichalcum": "Orichalcum",
+  "item.matsig.turmarine": "Turmarine",
+  "item.matsig.enderism": "Enderism",
+  "item.matsig.obsidiorite": "Obsidiorite",
+
+
+  "item.matsig.ruby_sword": "Ruby Sword",
+  "item.matsig.ruby_pickaxe": "Ruby Pickaxe",
+  "item.matsig.ruby_axe": "Ruby Axe",
+  "item.matsig.ruby_shovel": "Ruby Shovel",
+  "item.matsig.ruby_hoe": "Ruby Hoe",
+
+  "item.matsig.ruby_helmet": "Ruby Helmet",
+  "item.matsig.ruby_chestplate": "Ruby Chestplate",
+  "item.matsig.ruby_leggings": "Ruby Leggings",
+  "item.matsig.ruby_boots": "Ruby Boots",
+
+  "block.matsig.ruby_ore": "Ruby Ore",
+  "block.matsig.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "block.matsig.ruby_block": "Ruby Block",
+
+  "itemGroup.matsig.matsig_mats": "Materials, IG: Materials",
+  "itemGroup.matsig.matsig_tools": "Materials, IG: Tools",
+  "itemGroup.matsig.matsig_armor": "Materials, IG: Armor"
+}

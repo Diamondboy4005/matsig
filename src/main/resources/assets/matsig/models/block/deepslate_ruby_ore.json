@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "matsig:blocks/deepslate_ruby_ore"
+  }
+}

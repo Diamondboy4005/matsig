@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "matsig:orichalcum"
+  },
+  "addition": {
+    "item": "matsig:enderism"
+  },
+  "result": {
+    "item": "matsig:raw_turmarine",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "matsig",
+  "version": "${version}",
+
+  "name": "Materials, I Guess",
+  "description": "A Mod about adding Realistic and Fictional Resources",
+  "authors": [
+    "DiamondDev"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Diamondboy4005/"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.diamonddev.matsig.MaterialsIGuessMod"
+    ]
+  },
+  "mixins": [
+    "matsig.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
