@@ -3,6 +3,7 @@
 
 _A Mod about adding Realistic and Fictional Materials_, By DiamondDev
 
+https://modrinth.com/mod/matsig
 
 # Credits
 > Mojang Studios - Ruby Texture (from Minecraft: Earth)
